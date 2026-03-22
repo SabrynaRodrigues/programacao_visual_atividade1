@@ -1,0 +1,10 @@
+C:\Users\sabry\source\repos\Atividade1_nome\Atividade1_nome\bin\Debug\Atividade1_nome.exe.config
+C:\Users\sabry\source\repos\Atividade1_nome\Atividade1_nome\bin\Debug\Atividade1_nome.exe
+C:\Users\sabry\source\repos\Atividade1_nome\Atividade1_nome\bin\Debug\Atividade1_nome.pdb
+C:\Users\sabry\source\repos\Atividade1_nome\Atividade1_nome\obj\Debug\Atividade1_nome.csproj.AssemblyReference.cache
+C:\Users\sabry\source\repos\Atividade1_nome\Atividade1_nome\obj\Debug\Atividade1_nome.Form1.resources
+C:\Users\sabry\source\repos\Atividade1_nome\Atividade1_nome\obj\Debug\Atividade1_nome.Properties.Resources.resources
+C:\Users\sabry\source\repos\Atividade1_nome\Atividade1_nome\obj\Debug\Atividade1_nome.csproj.GenerateResource.cache
+C:\Users\sabry\source\repos\Atividade1_nome\Atividade1_nome\obj\Debug\Atividade1_nome.csproj.CoreCompileInputs.cache
+C:\Users\sabry\source\repos\Atividade1_nome\Atividade1_nome\obj\Debug\Atividade1_nome.exe
+C:\Users\sabry\source\repos\Atividade1_nome\Atividade1_nome\obj\Debug\Atividade1_nome.pdb
